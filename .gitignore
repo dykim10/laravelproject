@@ -1,3 +1,5 @@
 /.idea/
 /blog/storage/
 /blog/tests/
+/blog/database/
+/blog/bootstrap/
