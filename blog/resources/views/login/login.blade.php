@@ -6,7 +6,16 @@
 </head>
 <body>
 
-로그인 해보는거야.
+
+
+<script>
+
+    let min = Number.MAX_SAFE_INTEGER;  //안전한 max int 최대값
+    console.log(min);
+
+</script>
+
 </body>
 </html>
+
 
