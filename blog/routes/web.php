@@ -25,4 +25,4 @@ Route::get('/phpStorm', function () {
     //return view('login.login');
 });
 
-Route::get('user/profile', 'UserProfileController@show')->name('profile');
+Route::get('user/profile', 'UserProfileController@index')->name('profile');
