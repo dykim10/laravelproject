@@ -8,6 +8,7 @@
 
 
 
+
 <script>
 
     let min = Number.MAX_SAFE_INTEGER;  //안전한 max int 최대값
